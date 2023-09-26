@@ -1,6 +1,6 @@
 Привет(Privet)!!!
 
-Junior Smart Contract Developer(Solidity, Rust).
+Junior Smart Contract Developer/Auditor(Solidity, Rust).
 Working on L-3 Chain(huh).
 
 ⠀⠀⠀⠀⠀⠀⢀⣴⠟⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
