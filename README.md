@@ -7,7 +7,7 @@
 -Junior <a href="https://ethereum.org/en/developers/docs/smart-contracts/">Smart Contract</a> Developer/Auditor(Solidity, WASM).<br>
 -Working on L-3 Chain(huh).<br>
 <a href="https://www.researchgate.net/publication/343631973_Hacker-engineers_and_Their_Economies_The_Political_Economy_of_Decentralised_Networks_and_'Cryptoeconomics'">-Hacker-Engineer❤️.</a><br>
-<a href="rdkingangi.medium.com">-Medium Blog.</a>
+<a href="medium.com">-Medium Blog.</a>
 </p>
 
 ## Interests
@@ -23,27 +23,24 @@
 </p>
 
 ## Home Chains
-<!--
 
-<p style="text-align: left; white-space: nowrap;">
+<p align="center">
 
- <a href="https://ethereum.org/en/" > <img alt="Ethereum" 
-    src="https://res.cloudinary.com/teepublic/image/private/s--Hw--398i--/t_Preview/b_rgb:262c3a,c_limit,f_jpg,h_630,q_90,w_630/v1470823069/production/designs/625723_1.jpg" width="60"></a>
-⠀⠀⠀
- <a href="https://celo.org/"> <img alt="Celo"  
-    src="https://logos-download.com/wp-content/uploads/2022/01/Celo_Logo.png" width="60"></a>
-
- <a href="https://regen.network"><img alt="Regen"  
-    src="https://cryptocurrencyjobs.co/startups/assets/logos/regen-network.png" width="60"></a>
-
-<a href="https://www.polkadot.network/"> <img alt="Polkadot"  
-    src="https://1000logos.net/wp-content/uploads/2022/08/Polkadot-Symbol-1536x864.png" width="120"></a>
-
+ <a href="https://ethereum.org/en/" > <img alt="Ethereum" src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=026" width="80"></a>
+ <a href="https://celo.org/"> <img alt="Celo" src="https://cryptologos.cc/logos/celo-celo-logo.png?v=026" width="80"></a>
+ <a href="https://regen.network"><img alt="Regen" src="https://cryptocurrencyjobs.co/startups/assets/logos/regen-network.png" width="80"></a>
+ <a href="https://www.polkadot.network/"> <img alt="Polkadot" src="https://cryptologos.cc/logos/polkadot-new-dot-logo.png" width="80"></a>
+ <a href="https://kusama.network/"><img alt="Kusama" src="https://cryptologos.cc/logos/kusama-ksm-logo.png?v=026" width="80"></a>
+ <a href="https://www.chain.link"><img alt="Chainlink" src="https://cryptologos.cc/logos/chainlink-link-logo.png?v=026" width="80" ></a>
+ <a href="https://internetcomputer.org/"><img alt="Internet Computer" src="https://cryptologos.cc/logos/internet-computer-icp-logo.png?v=026" width="80"></a>
+ <a href="https://astar.network/"><img alt="Astar" src="https://cryptologos.cc/logos/astar-astr-logo.png?v=026" width="80"></a>
+ <a href="https://district0x.io/"><img alt="district0x" src="https://cryptologos.cc/logos/district0x-dnt-logo.png?v=026" width="80"></a>
+ <a href="https://www.arweave.org/"><img alt="Arweave" src="https://cryptologos.cc/logos/arweave-ar-logo.png?v=026" width="80"></a>
   </p>
-  -->
-
-## Tools and Frameworks
+  
 <!--
+## Tools and Frameworks
+
 <p align="center">
 
   <a href="https://metamask.io/"><img alt="Metamask"  
@@ -69,6 +66,7 @@
   <a href="https://en.wikipedia.org/wiki/Moscow_2042">Moscow 2042</a>📗<br>
   <a href="https://en.wikipedia.org/wiki/Neuromancer">Neuromancer</a>📔<br>
 </p>
+
    
  
 
