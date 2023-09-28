@@ -23,6 +23,7 @@
 </p>
 
 ## Home Chains
+<!--
 
 <p style="text-align: left; white-space: nowrap;">
 
@@ -39,9 +40,10 @@
     src="https://1000logos.net/wp-content/uploads/2022/08/Polkadot-Symbol-1536x864.png" width="120"></a>
 
   </p>
+  -->
 
 ## Tools and Frameworks
-
+<!--
 <p align="center">
 
   <a href="https://metamask.io/"><img alt="Metamask"  
@@ -57,7 +59,7 @@
     src="https://avatars3.githubusercontent.com/u/22205159?s=280&v=4" width="60"></a>
 
   </p>
-
+-->
 ## Read📚
 <p>
   <a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four">Nineteen Eight-Four</a>📘<br>
