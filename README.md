@@ -59,12 +59,12 @@
 -->
 ## Read📚
 <p>
-  <a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four">Nineteen Eight-Four</a>📘<br>
-  <a href="https://en.wikipedia.org/wiki/Lord_of_the_Flies">Lord Of The Flies</a>📓<br>
-  <a href="https://en.wikipedia.org/wiki/The_Turner_Diaries">Turner Diaries</a>📙<br>
-  <a href="https://en.wikipedia.org/wiki/Fahrenheit_451">Fahrenheit 451</a>📕<br>
-  <a href="https://en.wikipedia.org/wiki/Moscow_2042">Moscow 2042</a>📗<br>
-  <a href="https://en.wikipedia.org/wiki/Neuromancer">Neuromancer</a>📔<br>
+  <!--<a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"> -->Nineteen Eight-Four</a>📘<br>
+  <!--<a href="https://en.wikipedia.org/wiki/Lord_of_the_Flies"> -->Lord Of The Flies</a>📓<br>
+  <!--<a href="https://en.wikipedia.org/wiki/The_Turner_Diaries"> -->Turner Diaries</a>📙<br>
+  <!--<a href="https://en.wikipedia.org/wiki/Fahrenheit_451"> -->Fahrenheit 451</a>📕<br>
+  <!--<a href="https://en.wikipedia.org/wiki/Moscow_2042"> -->Moscow 2042</a>📗<br>
+  <!-- <a href="https://en.wikipedia.org/wiki/Neuromancer"> -->Neuromancer</a>📔<br>
 </p>
 
    
