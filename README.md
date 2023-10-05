@@ -7,7 +7,7 @@
 -Junior <a href="https://ethereum.org/en/developers/docs/smart-contracts/">Smart Contract</a> Developer/Auditor(Solidity, WASM).<br>
 -Working on L-3 Chain(huh).<br>
 <a href="https://www.researchgate.net/publication/343631973_Hacker-engineers_and_Their_Economies_The_Political_Economy_of_Decentralised_Networks_and_'Cryptoeconomics'">-Hacker-Engineer❤️.</a><br>
-<a href="medium.com">-Medium Blog.</a>
+<!-- <a href="medium.com">-Medium Blog.</a> -->
 </p>
 
 ## Interests
