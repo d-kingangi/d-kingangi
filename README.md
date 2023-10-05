@@ -19,7 +19,7 @@
    -Regenerative Finance.<br>
    -Basic Income.<br>  
    -<a href="https://globalcarbonreward.org/carbon-currency/">Carbon Currency</a>.<br>
-   -AI and AI Alignment.<br>
+   -ML and Alignment.<br>
 </p>
 
 ## Home Chains
