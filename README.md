@@ -5,6 +5,7 @@
 ## Who I am
 <p>
 -Junior <a href="https://ethereum.org/en/developers/docs/smart-contracts/">Smart Contract</a> Developer/Auditor(Solidity, WASM).<br>
+-Blockchain Data Analyst(Dune, tokenterminal, flipside, arkham)
 -Working on L-3 Chain(huh).<br>
 <a href="https://www.researchgate.net/publication/343631973_Hacker-engineers_and_Their_Economies_The_Political_Economy_of_Decentralised_Networks_and_'Cryptoeconomics'">-Hacker-Engineer❤️.</a><br>
 <!-- <a href="medium.com">-Medium Blog.</a> -->
@@ -22,6 +23,7 @@
    -ML and Alignment.<br>
 </p>
 
+<!--
 ## Home Chains
 
 <p align="center">
@@ -37,7 +39,8 @@
  <a href="https://district0x.io/"><img alt="district0x" src="https://cryptologos.cc/logos/district0x-dnt-logo.png?v=026" width="80"></a>
  <a href="https://www.arweave.org/"><img alt="Arweave" src="https://cryptologos.cc/logos/arweave-ar-logo.png?v=026" width="80"></a>
   </p>
-  
+-->
+   
 <!--
 ## Tools and Frameworks
 
