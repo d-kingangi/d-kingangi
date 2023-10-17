@@ -1,7 +1,7 @@
 
-
+<!--
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
+-->
 ## Who we are
 <p>
 -Junior <a href="https://ethereum.org/en/developers/docs/smart-contracts/">Smart Contract</a> Developer/Auditor(Solidity, WASM).<br>
