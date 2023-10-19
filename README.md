@@ -6,6 +6,7 @@
 <p>
 -Junior <a href="https://ethereum.org/en/developers/docs/smart-contracts/">Smart Contract</a> Developer/Auditor(Solidity, WASM).<br>
 -Blockchain Data Analyst( dune, thegraph, tokenterminal, flipside, arkham).<br>
+-Token Engineer.<br>
 -Working on L-3 Chain(huh).<br>
 <a href="https://www.researchgate.net/publication/343631973_Hacker-engineers_and_Their_Economies_The_Political_Economy_of_Decentralised_Networks_and_'Cryptoeconomics'">-Hacker-Engineer❤️.</a><br>
 <!-- <a href="medium.com">-Medium Blog.</a> -->
@@ -15,11 +16,12 @@
 
 <p>
    -Blockchains and Distributed Ledger Tech.<br>
-   -Decentralization.<br>
-   -Decentralized Finance.<br>
-   -Regenerative Finance.<br>
+   -Decentralized Governance.<br>
+   -De-Fi.<br>
+   -Re-Fi.<br>
    -Basic Income.<br>  
    -<a href="https://globalcarbonreward.org/carbon-currency/">Carbon Currency</a>.<br>
+   -X-risk.<br>
    -ML and Alignment.<br>
 </p>
 
