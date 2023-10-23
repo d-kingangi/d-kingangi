@@ -62,6 +62,12 @@
 
   </p>
 -->
+
+## Extracts
+<p>
+   -"...a conflict between crypto and existing power structures is essentially preprogrammed. Regulation forces crypto underground. Anonymity proliferates. In the interstellar darkness, freshly radicalized crypto factions create a new kind of democratic society."
+</p>
+
 ## Read📚
 <p>
   <!--<a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"> --> -Nineteen Eight-Four</a>📘<br>
