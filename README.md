@@ -15,14 +15,7 @@
 ## Interests
 
 <p>
-   -Blockchains and Distributed Ledger Tech.<br>
-   -Decentralized Governance.<br>
-   -De-Fi.<br>
-   -Re-Fi.<br>
-   -Basic Income.<br>  
-   -<a href="https://globalcarbonreward.org/carbon-currency/">Carbon Currency</a>.<br>
-   -X-risk.<br>
-   -ML and Alignment.<br>
+   Blockchains and DLTs/Decentralized Governance/De-Fi/Re-Fi/Basic Income/<a href="https://globalcarbonreward.org/carbon-currency/">Carbon Currency</a>/X-risk/ML and Alignment.<br>
 </p>
 
 <!--
