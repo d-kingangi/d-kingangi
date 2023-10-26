@@ -15,7 +15,7 @@
 ## Interests
 
 <p>
-   -Blockchains and DLTs/Decentralized Governance/De-Fi/Re-Fi/Basic Income/<a href="https://globalcarbonreward.org/carbon-currency/">Carbon Currency</a>/X-risk/ML and Alignment.
+   //Blockchains and DLTs//Decentralized Governance//De-Fi//Re-Fi//Basic Income//<a href="https://globalcarbonreward.org/carbon-currency/">Carbon Currency</a>//X-risk//ML and Alignment.
 </p>
 
 <!--
