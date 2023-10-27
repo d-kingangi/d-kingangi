@@ -1,7 +1,7 @@
-
 <!--
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 -->
+<!--
 ## Who we are
 <p>
 -Junior <a href="https://ethereum.org/en/developers/docs/smart-contracts/">Smart Contract</a> Developer/Auditor(Solidity, WASM).<br>
@@ -12,12 +12,13 @@
 <!-- <a href="medium.com">-Medium Blog.</a> -->
 </p>
 
+<!--
 ## Interests
 
 <p>
    //Blockchains and DLTs//Decentralized Governance//De-Fi//Re-Fi//Basic Income//<a href="https://globalcarbonreward.org/carbon-currency/">Carbon Currency</a>//X-risk//ML and Alignment.
 </p>
-
+-->
 <!--
 ## Home Chains
 
@@ -34,6 +35,7 @@
  <a href="https://district0x.io/"><img alt="district0x" src="https://cryptologos.cc/logos/district0x-dnt-logo.png?v=026" width="80"></a>
  <a href="https://www.arweave.org/"><img alt="Arweave" src="https://cryptologos.cc/logos/arweave-ar-logo.png?v=026" width="80"></a>
   </p>
+  
 -->
    
 <!--
@@ -55,25 +57,15 @@
 
   </p>
 -->
-
+<!--
 ## Extracts
 <p>
    -"...a conflict between crypto and existing power structures is essentially preprogrammed. Regulation forces crypto underground. Anonymity proliferates. In the interstellar darkness, freshly radicalized crypto factions create a new kind of democratic society."<br>
    -"Don't trust...verify!!"
 </p>
+-->
+<p><b>Heaven is a place online!!!</b></p>
 
-## Read📚
-<p>
-  <!--<a href="https://en.wikipedia.org/wiki/Nineteen_Eighty-Four"> --> -Nineteen Eight-Four</a>📘<br>
-  <!--<a href="https://en.wikipedia.org/wiki/Lord_of_the_Flies"> --> -Lord Of The Flies</a>📓<br>
-  <!--<a href="https://en.wikipedia.org/wiki/The_Turner_Diaries"> --> -Turner Diaries</a>📙<br>
-  <!--<a href="https://en.wikipedia.org/wiki/Fahrenheit_451"> --> -Fahrenheit 451</a>📕<br>
-  <!--<a href="https://en.wikipedia.org/wiki/Moscow_2042"> --> -Moscow 2042</a>📗<br>
-  <!-- <a href="https://en.wikipedia.org/wiki/Neuromancer"> --> -Neuromancer</a>📔<br> 
-  <!--<a href="https://en.wikipedia.org/wiki/Odyssey"> --> -Homer's The Odyssey</a>📓<br>
-</p>
-
-   
  
 
 
