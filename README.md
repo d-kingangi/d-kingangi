@@ -58,7 +58,7 @@
 
 ## Extracts
 <p>
-   -"...a conflict between crypto and existing power structures is essentially preprogrammed. Regulation forces crypto underground. Anonymity proliferates. In the interstellar darkness, freshly radicalized crypto factions create a new kind of democratic society."
+   -"...a conflict between crypto and existing power structures is essentially preprogrammed. Regulation forces crypto underground. Anonymity proliferates. In the interstellar darkness, freshly radicalized crypto factions create a new kind of democratic society."<br>
    -"Don't trust...verify!!"
 </p>
 
