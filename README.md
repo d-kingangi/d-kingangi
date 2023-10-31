@@ -64,7 +64,7 @@
    -"Don't trust...verify!!"
 </p>
 -->
-<p><b>Heaven is a place online!!!</b></p>
+<p><b>HEAVEN IS A PLACE ONLINE!!!</b></p>
 
  
 
