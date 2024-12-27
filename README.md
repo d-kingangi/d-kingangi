@@ -1,1 +1,1 @@
-curiosity observing the limitless space of the human mind
+curiously observing the limitless space of the human mind
